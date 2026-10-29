@@ -1,0 +1,21 @@
+customer_id,tenure_months,monthly_charges,contract,internet_service,support_tickets,churned
+C001,2,79.90,Month-to-month,Fiber,4,1
+C002,5,65.00,Month-to-month,DSL,3,1
+C003,8,89.50,Month-to-month,Fiber,2,0
+C004,12,54.00,One year,DSL,1,1
+C005,18,72.50,One year,Fiber,1,0
+C006,24,49.00,Two year,DSL,0,0
+C007,3,95.00,Month-to-month,Fiber,5,1
+C008,30,61.00,Two year,DSL,1,1
+C009,7,83.00,Month-to-month,Fiber,3,1
+C010,42,58.50,Two year,DSL,0,0
+C011,15,77.00,One year,Fiber,2,0
+C012,4,68.00,Month-to-month,DSL,2,1
+C013,36,92.00,Two year,Fiber,1,0
+C014,10,52.50,One year,DSL,1,0
+C015,6,99.00,Month-to-month,Fiber,4,1
+C016,27,70.00,Two year,Fiber,0,0
+C017,9,63.50,Month-to-month,DSL,3,1
+C018,20,86.00,One year,Fiber,1,0
+C019,48,55.00,Two year,DSL,0,0
+C020,11,74.00,Month-to-month,Fiber,2,1
